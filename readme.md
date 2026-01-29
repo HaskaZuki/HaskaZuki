@@ -22,7 +22,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&width=435&lines=Developing+SpaceBot;Mechanical+Engineering+Alumnus;Data+Analyst+%26+Scientist;Full-Stack+Developer;Mechanical+Engineer" alt="Typing SVG" />
       </a>
       <br/><br/>      
-      I bridge the gap between <b>creative gaming experiences</b> and <b>data-driven solutions</b>. With a background in <b>Mechanical Engineering (ITB)</b>, I bring structured logic to software development.
+      I bridge the gap between <b>creative gaming experiences</b> and <b>data-driven solutions</b>. With a background in <b>Mechanical Engineering</b>, I bring structured logic to software development.
       <br/><br/>      
       <b>Current Focus:</b><br/>
       Developing <b>Mount Tana</b>, an immersive Roblox experience with complex UI/UX.
