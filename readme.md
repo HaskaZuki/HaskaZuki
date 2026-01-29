@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HaskaZuki&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=HaskaZuki&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Innovating%20Through%20Code%20%26%20Data&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
@@ -14,9 +18,7 @@
   <tr>
     <td width="60%" valign="top">
       <h2>👋 Hi there, I'm Haska!</h2>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&width=435&lines=Mechanical+Engineering+Alumnus+%40+ITB;Data+Analyst+%26+Scientist;Full-Stack+Developer+(Luau+%2F+JS);Building+Mount+Tana+%26+SpaceBot" alt="Typing SVG" />
-      </a>
+      Developing SpaceBot
       <br/><br/>
       I bridge the gap between <b>creative gaming experiences</b> and <b>data-driven solutions</b>. With a background in <b>Mechanical Engineering (ITB)</b>, I bring structured logic to software development.
       <br/><br/>
@@ -91,6 +93,4 @@
   <a href="https://discord.com/users/710245394533318676" target="blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=HaskaZuki&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
